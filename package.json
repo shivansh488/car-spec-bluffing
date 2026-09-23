@@ -1,0 +1,8 @@
+{
+  "name": "car-spec-bluffing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node --watch server.js", "start": "node server.js", "test": "node --test" },
+  "dependencies": { "express": "^5.1.0", "ws": "^8.18.3" }
+}

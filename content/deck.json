@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ford-gt90-exhaust",
+    "category": "Concept-car lies",
+    "question": "What exhaust layout made Ford’s 1995 GT90 look like a jet-powered supercar?",
+    "realAnswer": "Its 720-hp quad-turbo V12 breathed out through four circular center-mounted exhaust outlets.",
+    "decoyHint": "sounds like aerospace styling notes"
+  },
+  {
+    "id": "stratos-zero-entry",
+    "category": "Concept-car lies",
+    "question": "Why did the driver enter the Lancia Stratos Zero through the windscreen area?",
+    "realAnswer": "The canopy lifted because the razor wedge body was only about 84 cm tall.",
+    "decoyHint": "sounds like a packaging constraint memo"
+  },
+  {
+    "id": "mercedes-c111-wankel",
+    "category": "Engine nicknames",
+    "question": "What experimental engine layout powered the first Mercedes C111 prototypes?",
+    "realAnswer": "Early C111s used compact three-rotor Wankel engines behind the cabin.",
+    "decoyHint": "sounds like a rotary test programme"
+  },
+  {
+    "id": "toyota-222d-group-s",
+    "category": "Cancelled prototypes",
+    "question": "Which rally class was the Toyota 222D developed for before it disappeared?",
+    "realAnswer": "It was built for the proposed Group S rally formula, cancelled after Group B.",
+    "decoyHint": "sounds like a FIA rulebook footnote"
+  },
+  {
+    "id": "alfa-carabo-doors",
+    "category": "Prototype details",
+    "question": "What dramatic door style did the Alfa Romeo Carabo popularize in 1968?",
+    "realAnswer": "Bertone gave the Tipo 33-based Carabo upward-opening scissor doors.",
+    "decoyHint": "sounds like a coachbuilder press line"
+  },
+  {
+    "id": "bmw-z13-seats",
+    "category": "Cancelled prototypes",
+    "question": "How did BMW’s Z13 city-car concept arrange its three seats?",
+    "realAnswer": "The driver sat centrally, with two staggered passenger seats behind.",
+    "decoyHint": "sounds like a packaging sketch caption"
+  },
+  {
+    "id": "porsche-989-sedan",
+    "category": "Cancelled prototypes",
+    "question": "What body style was Porsche’s aborted 989 meant to pioneer for the brand?",
+    "realAnswer": "It was a front-engined four-door luxury sedan developed before the Panamera.",
+    "decoyHint": "sounds like a boardroom product brief"
+  },
+  {
+    "id": "mazda-furai-ethanol",
+    "category": "Concept-car lies",
+    "question": "What type of fuel did Mazda say powered its rotary-engined Furai concept?",
+    "realAnswer": "Its three-rotor racing engine was configured to run on ethanol fuel.",
+    "decoyHint": "sounds like a race-fuel footnote"
+  },
+  {
+    "id": "audi-rosemeyer-name",
+    "category": "Concept-car lies",
+    "question": "Which historic racer inspired Audi’s 2000 Rosemeyer concept name?",
+    "realAnswer": "It honored Bernd Rosemeyer, the pre-war Auto Union Grand Prix driver.",
+    "decoyHint": "sounds like heritage marketing copy"
+  },
+  {
+    "id": "citroen-karin-roof",
+    "category": "Concept-car lies",
+    "question": "What unconventional roof shape defined the Citroën Karin concept?",
+    "realAnswer": "Its glasshouse tapered into a tiny pyramid-like roof panel.",
+    "decoyHint": "sounds like a design-studio provocation"
+  },
+  {
+    "id": "peugeot-oxia-power",
+    "category": "Prototype details",
+    "question": "How much power did Peugeot claim for the twin-turbo V6 Oxia concept?",
+    "realAnswer": "Peugeot quoted roughly 680 horsepower for the four-wheel-drive Oxia.",
+    "decoyHint": "sounds like a 1980s brochure claim"
+  },
+  {
+    "id": "renault-espace-f1",
+    "category": "Engine nicknames",
+    "question": "What powered Renault’s Espace F1 people carrier concept?",
+    "realAnswer": "A mid-mounted Formula One V10 turned the MPV into a 312-km/h oddity.",
+    "decoyHint": "sounds like a motorsport PR stunt"
+  },
+  {
+    "id": "nissan-r390-homologation",
+    "category": "Homologation oddities",
+    "question": "Why did Nissan build a roadgoing R390 GT1 version?",
+    "realAnswer": "GT1 rules required a homologation road car, so Nissan produced a tiny roadgoing run.",
+    "decoyHint": "sounds like a race-rule loophole note"
+  },
+  {
+    "id": "jaguar-xj220-cylinders",
+    "category": "Cancelled trims",
+    "question": "Which cylinder count did the production Jaguar XJ220 lose compared with its concept?",
+    "realAnswer": "The V12 concept gave way to a twin-turbo V6 in the production car.",
+    "decoyHint": "sounds like a late engineering compromise"
+  },
+  {
+    "id": "dodge-m4s-meaning",
+    "category": "Factory codes",
+    "question": "What did the Dodge M4S concept’s initials stand for?",
+    "realAnswer": "M4S meant Mid-engine, Four-cylinder, Sports car.",
+    "decoyHint": "sounds like an internal naming sheet"
+  },
+  {
+    "id": "ford-nucleon-reactor",
+    "category": "Concept-car lies",
+    "question": "Where did Ford imagine the Nucleon concept storing its nuclear reactor?",
+    "realAnswer": "A removable reactor capsule sat at the rear, behind the passenger compartment.",
+    "decoyHint": "sounds like atomic-age optimism"
+  },
+  {
+    "id": "gm-firebird-iii-guidance",
+    "category": "Concept-car lies",
+    "question": "What aircraft-inspired guidance concept did GM imagine for Firebird III?",
+    "realAnswer": "It imagined an automated highway guidance system steering the turbine car.",
+    "decoyHint": "sounds like a future-highway pamphlet"
+  },
+  {
+    "id": "saab-98-wagon",
+    "category": "Factory codes",
+    "question": "What body style was the rare Saab 98 prototype?",
+    "realAnswer": "It was a hand-built two-door wagon based on Saab 95 mechanicals.",
+    "decoyHint": "sounds like a Swedish parts-bin experiment"
+  },
+  {
+    "id": "volvo-scc-c30",
+    "category": "Safety experiments",
+    "question": "What major Volvo production model grew from the SCC safety concept?",
+    "realAnswer": "The Safety Concept Car previewed much of the first-generation Volvo C30.",
+    "decoyHint": "sounds like a safety-lab press release"
+  },
+  {
+    "id": "lambo-cheetah-layout",
+    "category": "Cancelled prototypes",
+    "question": "What layout did Lamborghini’s Cheetah military prototype use?",
+    "realAnswer": "It put a Chrysler V8 behind the cabin in a rear-engined off-road vehicle.",
+    "decoyHint": "sounds like a military tender note"
+  },
+  {
+    "id": "honda-argento-vivo",
+    "category": "Concept-car lies",
+    "question": "What material was a key visual feature of Honda’s Argento Vivo concept?",
+    "realAnswer": "The concept used visible aluminum body panels and a pared-back metallic interior.",
+    "decoyHint": "sounds like a materials showcase blurb"
+  },
+  {
+    "id": "chrysler-atlantic-echo",
+    "category": "Concept-car lies",
+    "question": "Which classic design did Chrysler’s Atlantic concept deliberately echo?",
+    "realAnswer": "Its long hood and split rear spine were a modern tribute to the Bugatti Atlantic.",
+    "decoyHint": "sounds like a design retrospective caption"
+  },
+  {
+    "id": "isuzu-4200r-v8",
+    "category": "Prototype details",
+    "question": "What engine did Isuzu install in its 4200R supercar concept?",
+    "realAnswer": "A mid-mounted 4.2-litre V8 gave the concept its name and its ambition.",
+    "decoyHint": "sounds like an ambitious engineering brief"
+  },
+  {
+    "id": "aston-bulldog-200",
+    "category": "Prototype details",
+    "question": "What top-speed target made Aston Martin’s Bulldog unusually audacious?",
+    "realAnswer": "Aston Martin intended the wedge-shaped Bulldog to break 200 mph.",
+    "decoyHint": "sounds like a speed-record ambition memo"
+  }
+]
