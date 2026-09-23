@@ -12,6 +12,27 @@ npm start
 
 Open http://localhost:3000
 
+## Deploy globally (Railway — recommended)
+
+This repo already includes a `Dockerfile` + `railway.toml`.
+
+1. Push is done: https://github.com/shivansh488/car-spec-bluffing
+2. Go to [railway.app](https://railway.app) → **Login with GitHub**
+3. **New Project** → **Deploy from GitHub repo** → select `car-spec-bluffing`
+4. Railway builds the Docker image and assigns a public URL
+5. In the service → **Settings** → **Networking** → **Generate Domain**
+6. Open that `*.up.railway.app` URL on two phones — same game, worldwide
+
+Optional CLI (after `npm i -g @railway/cli` and `railway login`):
+
+```bash
+railway init
+railway up
+railway domain
+```
+
+Healthcheck: `GET /api/health` must return `{ ok: true }`.
+
 ## 2-device playtest script
 
 1. **Device A (host laptop)**  
