@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: car-spec-bluffing
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production

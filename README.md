@@ -12,18 +12,38 @@ npm start
 
 Open http://localhost:3000
 
-## Deploy globally (Railway — recommended)
+## Deploy globally (free — Render)
+
+Railway often requires a paid plan for new accounts. Use **Render** instead (free Web Service).
+
+1. Repo: https://github.com/shivansh488/car-spec-bluffing  
+2. Open [render.com](https://render.com) → **Sign up with GitHub**  
+3. **New +** → **Web Service** → connect `car-spec-bluffing`  
+4. Settings:
+   - **Language / Runtime:** Docker (uses the repo `Dockerfile`)
+   - **Instance type:** Free
+   - **Health check path:** `/api/health`
+5. Click **Create Web Service** and wait for the deploy  
+6. Open the `https://….onrender.com` URL on two devices and play
+
+Notes:
+- Free instances **sleep after ~15 minutes idle**. First open can take 30–60s; then it’s normal.
+- WebSockets work on Render HTTPS (`wss://` automatic).
+- No env vars required for v1.
+
+### Alternatives (also free-ish)
+- **[Fly.io](https://fly.io)** — free allowance; needs `fly launch` + card on file sometimes (may not charge).
+- **Local + [Pinggy](https://pinggy.io) / [ngrok](https://ngrok.com)** — free tunnel for a play session (not always-on).
+
+## Deploy on Railway (if you have credits)
 
 This repo already includes a `Dockerfile` + `railway.toml`.
 
-1. Push is done: https://github.com/shivansh488/car-spec-bluffing
-2. Go to [railway.app](https://railway.app) → **Login with GitHub**
-3. **New Project** → **Deploy from GitHub repo** → select `car-spec-bluffing`
-4. Railway builds the Docker image and assigns a public URL
-5. In the service → **Settings** → **Networking** → **Generate Domain**
-6. Open that `*.up.railway.app` URL on two phones — same game, worldwide
+1. [railway.app](https://railway.app) → **Login with GitHub**
+2. **New Project** → **Deploy from GitHub repo** → `car-spec-bluffing`
+3. **Settings** → **Networking** → **Generate Domain**
 
-Optional CLI (after `npm i -g @railway/cli` and `railway login`):
+Optional CLI (after `railway login`):
 
 ```bash
 railway init
